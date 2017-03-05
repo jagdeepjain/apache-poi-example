@@ -43,7 +43,7 @@ public class ReadSpreadSheet {
 						employee.setSno((int) cell.getNumericCellValue());
 						break;
 					case 1:
-						employee.setName((String) cell.getStringCellValue());
+						employee.setName(cell.getStringCellValue());
 						break;
 					case 2:
 						employee.setAge((int) cell.getNumericCellValue());
