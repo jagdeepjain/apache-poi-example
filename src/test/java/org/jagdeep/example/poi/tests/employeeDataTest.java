@@ -13,7 +13,7 @@ import org.jagdeep.example.util.ReadSpreadSheet;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
-public class ReadExcelDataTest {
+public class employeeDataTest {
 
 	@Test
 	@DisplayName("Reading spreadsheet data based on sheet, row and column.")
