@@ -2,7 +2,7 @@
  * @author jagdeepjain
  *
  */
-package org.jagdeep.example.poi.tests;
+package org.jagdeep.example.employee.tests;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
